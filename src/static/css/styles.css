@@ -1,0 +1,10 @@
+.user_list {
+    width: 100%;
+    border: 1px solid #000;
+    border-collapse: collapse;
+}
+
+.user_list th, 
+.user_list td {
+    border: 1px solid #000;
+}
